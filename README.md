@@ -2,17 +2,18 @@ HR Analytics Dashboard
 This project showcases an HR Analytics Dashboard created using Power BI to analyze employee attrition. The dashboard provides a detailed view of various factors influencing employee turnover, enabling organizations to make informed decisions to improve retention and overall employee experience.
 
 Key Features:
-1.Attrition by Education: Visual representation of attrition rates based on educational background.
 
-2.Attrition by Age: Breakdown of attrition across different age groups.
+ 1. Attrition by Education: Visual representation of attrition rates based on educational background.
 
-3.Attrition by Salary Slab: Analysis of attrition rates in relation to salary ranges.
+ 2. Attrition by Age: Breakdown of attrition across different age groups.
 
-4.Attrition by Years at Company: Insights into how tenure affects attrition.
+ 3. Attrition by Salary Slab: Analysis of attrition rates in relation to salary ranges.
 
-5.Attrition by Job Role: Detailed view of attrition rates across different job roles.
+ 4. Attrition by Years at Company: Insights into how tenure affects attrition.
 
-6.Attrition by Gender: Gender-based analysis of attrition.
+ 5. Attrition by Job Role: Detailed view of attrition rates across different job roles.
+
+ 6. Attrition by Gender: Gender-based analysis of attrition.
 
 Key Learnings and Outcomes:
 
