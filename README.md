@@ -1,4 +1,4 @@
-![Power BI Desktop 10_30_2024 4_21_12 PM](https://github.com/user-attachments/assets/afb1b1c4-8777-47bb-bb47-e41e7f270268)HR Analytics Dashboard
+
 This project showcases an HR Analytics Dashboard created using Power BI to analyze employee attrition. The dashboard provides a detailed view of various factors influencing employee turnover, enabling organizations to make informed decisions to improve retention and overall employee experience.
 
 Key Features:
